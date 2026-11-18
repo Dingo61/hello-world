@@ -12,9 +12,9 @@ A companion to **`FortyTwo.md`** and our growing museum of questionable programm
 
 Around **1772**, mathematician **Leonhard Euler** observed that the polynomial
 
-\[
-\boxed{f(n)=n^2+n+41}
-\]
+
+{f(n)=n^2+n+41}
+
 
 produces **40 distinct prime numbers** for consecutive integer inputs `n = 0, 1, ..., 39`.
 
