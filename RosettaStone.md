@@ -1,10 +1,8 @@
----
-
 # 🪨 The Rosetta Stone of Programming Disasters
 
 ### One Mining Block. Six Languages. Forty-Seven Ways to Get It Wrong.
 
-> *"The mathematics hasn't changed in 60 years. Unfortunately, neither have some of the bugs."*
+*"The mathematics hasn't changed in 60 years. Unfortunately, neither have some of the bugs."*
 
 ## ⛏️ Our Mission
 
